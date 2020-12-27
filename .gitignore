@@ -1,2 +1,5 @@
 input/*
 graph_objs/*
+main
+apps/pr
+apps/bfs
